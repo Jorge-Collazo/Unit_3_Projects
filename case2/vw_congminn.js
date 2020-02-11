@@ -52,7 +52,7 @@ var party =
    ["D", "R", "I"],
    ["D", "R", "I"],               
    ["D", "R", "I"]
- ];
+];
  
  var votes = 
  [
